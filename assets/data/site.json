@@ -1,0 +1,32 @@
+{
+  "company": "Samayamantri Technologies",
+  "domain": "https://samayamantritechnologies.com",
+  "projects": [
+    {
+      "name": "AyurDrishti",
+      "path": "/ayurdrishti/",
+      "status": "research project"
+    },
+    {
+      "name": "SahaayaMitra",
+      "path": "/sahaayamitra/",
+      "status": "development project"
+    },
+    {
+      "name": "CareerMap",
+      "path": "/careermap/",
+      "status": "project"
+    },
+    {
+      "name": "IndiaAI Projects",
+      "path": "/indiaai/",
+      "status": "project"
+    },
+    {
+      "name": "WQMS",
+      "path": "/projects/",
+      "status": "additional project"
+    }
+  ],
+  "architecture": "Static company site with project-specific directories prepared for future full-stack applications."
+}
