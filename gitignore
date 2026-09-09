@@ -1,0 +1,41 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Local development files
+.env
+.env.*
+!.env.example
+
+# Node / package manager files if a future application is added
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+build/
+out/
+.cache/
+
+# Local backups / archives
+backup/
+backups/
+*.zip
+
+# Local-only notes
+.local/
